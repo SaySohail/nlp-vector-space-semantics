@@ -10,8 +10,6 @@
 </div>
 
 ---
-
-
 ## 🧐 About <a name = "about"></a>
 
 In this assignment, the goal is to create a vector representation of character documents containing lines spoken by characters in the Eastenders script data. The vector representations will be improved to maximize the distinction between character documents. This distinction will be measured based on the performance of an information retrieval classification method, which aims to select documents from the validation and test data accurately.
